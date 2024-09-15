@@ -3,6 +3,6 @@ algoritmo "olaMundo"
 var
 
 inicio
-    Escreva ("Olá, Mundo!")
+    escreva ("Olá, Mundo!")
 
 fimalgoritmo
